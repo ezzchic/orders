@@ -8,6 +8,8 @@ body {
     margin: auto;
 }
 
+img {margin: 10%;}
+
 h1 {
   display: inline-block;
   margin: 10px auto;
@@ -75,4 +77,5 @@ img {
 @media (min-width: 800px) {
   #grid-tracks {width: 50%;}
   #grid-links {width: 50%;}
+  img {margin: 25%;}
 }
